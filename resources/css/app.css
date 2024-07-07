@@ -1,0 +1,6 @@
+div.alert alert-success {
+    position: absolute;
+    width: 400px;
+    left: 50%;
+    transform: translateX(-50%);
+}
